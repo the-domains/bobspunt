@@ -1,0 +1,16 @@
+typography_spectrum: 0.9066036359872669
+color:
+  brandStrength: 0.18531282618641853
+  lightness: 0.25772924488410354
+  saturation: 0.7596717271953821
+  rhythmicContrast: 0.719309534644708
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+github: true
+layout_spectrum: 0.6184608940966427
+name: bobspunt
+title: I have a Ph.D.
