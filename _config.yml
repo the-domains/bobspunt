@@ -1,16 +1,29 @@
-typography_spectrum: 0.9066036359872669
+title: I have a Ph.D.
+content: []
+github: true
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.18531282618641853
-  lightness: 0.25772924488410354
   saturation: 0.7596717271953821
-  rhythmicContrast: 0.719309534644708
+  brandStrength: 1
+  lightness: 0.2577292448841035
   brandColors:
     - '#000000'
-    - '#404040'
-    - '#808080'
-    - '#BFBFBF'
-    - '#FFFFFF'
-github: true
+    - '#606060'
+    - '#A5A5A5'
+    - '#FF1C00'
+    - '#FDC000'
+  rhythmicContrast: 0.719309534644708
+typography_spectrum: 0.9066036359872669
 layout_spectrum: 0.6184608940966427
 name: bobspunt
-title: I have a Ph.D.
